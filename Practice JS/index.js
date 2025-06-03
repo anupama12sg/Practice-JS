@@ -1,3 +1,3 @@
 const v = 64
 
-console.log(`${v}`)
+console.log(`V = ${v}`)
